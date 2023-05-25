@@ -6,8 +6,11 @@
     <i>
         I'm Joe.<br>
         Currently learning anything and everything I can blockchain, with the goal of working on EVM Core protocol.<br>
-        Always interested in collaborating!<br>
+        I'm always interested in collaborating!<br>
     </i><br>
+    <a href="https://www.twitter.com/moeyjac_">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=Twitter" alt="Twitter">
+    </a>
     <a href="https://www.linkedin.com/in/joseph-macaluso-591b05242/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
@@ -16,26 +19,36 @@
     </a>
 </p>
 
-### Languages
+### Languages ⌨️
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/MoeyJac)
 [![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity)](https://github.com/MoeyJac)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/MoeyJac)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/MoeyJac)
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/MoeyJac) -WiP-
-[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/MoeyJac) -WiP-
-[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/MoeyJac) -WiP-
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/MoeyJac)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/MoeyJac)
 <!-- TODO: Add additional Leanguages -->
-### Technologies & Frameworks
+### Technologies & Frameworks 📐
+[![Visual Studio Code](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=vscode)](https://github.com/MoeyJac)
+[![Remix](https://img.shields.io/badge/remix-black?style=for-the-badge&logo=remix)](https://github.com/MoeyJac)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/MoeyJac)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/MoeyJac) -WiP-
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/MoeyJac) -WiP-
 <!-- TODO: Add additional Technologies -->
-### OS
+### OS 🖥️
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/MoeyJac)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/MoeyJac)
 [![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS)](https://github.com/MoeyJac)
+### WiP 🚧
+#### - Languages
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/MoeyJac) 
+[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/MoeyJac)
+[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/MoeyJac)
+#### - Technologies & Frameworks
+[![Hardhat](https://img.shields.io/badge/hardhat-black?style=for-the-badge&logo=hardhat)](https://hardhat.org/)
+[![Foundry](https://img.shields.io/badge/foundry-black?style=for-the-badge&logo=foundry)](https://github.com/foundry-rs/foundry)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/MoeyJac)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/MoeyJac)
+#### - Projects 🤟
+[Solidity Storage](https://github.com/MoeyJac/solidity-simple-storage)  
+Coming soon...
 
 <details>
 <p align="center">
