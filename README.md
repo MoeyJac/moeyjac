@@ -40,12 +40,12 @@
 #### - Languages
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/MoeyJac) 
 [![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/MoeyJac)
-[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/MoeyJac)
+[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/MoeyJac)  
 #### - Technologies & Frameworks
 [![Hardhat](https://img.shields.io/badge/hardhat-black?style=for-the-badge&logo=hardhat)](https://hardhat.org/)
 [![Foundry](https://img.shields.io/badge/foundry-black?style=for-the-badge&logo=foundry)](https://github.com/foundry-rs/foundry)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/MoeyJac)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/MoeyJac)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/MoeyJac)  
 #### - Projects 🤟
 [Solidity Storage](https://github.com/MoeyJac/solidity-simple-storage)  
 Coming soon...
