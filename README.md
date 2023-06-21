@@ -50,9 +50,9 @@
 [Solidity Fund Me](https://github.com/MoeyJac/hardhat-fund-me-fcc)  
 Coming soon...
 ### Recently Completed ✅
-[Solidity Storage](https://github.com/MoeyJac/solidity-simple-storage)
-[Ethers Storage](https://github.com/MoeyJac/ethers-simple-storage-fcc/tree/develop)
-[Hardhat Storage](https://github.com/MoeyJac/hardhat-simple-storage-fcc/tree/develop)
+[Solidity Storage](https://github.com/MoeyJac/solidity-simple-storage)  
+[Ethers Storage](https://github.com/MoeyJac/ethers-simple-storage-fcc/tree/develop)  
+[Hardhat Storage](https://github.com/MoeyJac/hardhat-simple-storage-fcc/tree/develop)  
 
 <details>
 <p align="center">
