@@ -47,8 +47,12 @@
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/MoeyJac)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/MoeyJac)  
 #### - Projects 🤟
-[Solidity Storage](https://github.com/MoeyJac/solidity-simple-storage)  
+[Solidity Fund Me](https://github.com/MoeyJac/hardhat-fund-me-fcc)  
 Coming soon...
+### Recently Completed ✅
+[Solidity Storage](https://github.com/MoeyJac/solidity-simple-storage)
+[Ethers Storage](https://github.com/MoeyJac/ethers-simple-storage-fcc/tree/develop)
+[Hardhat Storage](https://github.com/MoeyJac/hardhat-simple-storage-fcc/tree/develop)
 
 <details>
 <p align="center">
