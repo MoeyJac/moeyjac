@@ -1,5 +1,5 @@
 <!-- Credit https://github.com/wervlad/wervlad -->
-<h1 align="center">Hey there! 👋></h1>
+<h1 align="center">Hey there! 👋</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
