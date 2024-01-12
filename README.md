@@ -28,6 +28,7 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/MoeyJac)
 <!-- TODO: Add additional Leanguages -->
 ### Technologies & Frameworks 📐
+[![Svelte](https://img.shields.io/badge/svelte-black?style=for-the-badge&logo=svelte)](https://svelte.dev/)
 [![Visual Studio Code](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=vscode)](https://github.com/MoeyJac)
 [![Remix](https://img.shields.io/badge/remix-black?style=for-the-badge&logo=remix)](https://github.com/MoeyJac)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/MoeyJac)
@@ -44,7 +45,7 @@
 #### - Technologies & Frameworks
 [![Hardhat](https://img.shields.io/badge/hardhat-black?style=for-the-badge&logo=hardhat)](https://hardhat.org/)
 [![Foundry](https://img.shields.io/badge/foundry-black?style=for-the-badge&logo=foundry)](https://github.com/foundry-rs/foundry)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/MoeyJac)
+[![SvelteKit](https://img.shields.io/badge/svelte-black?style=for-the-badge&logo=svelte)](https://svelte.dev/)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/MoeyJac)  
 #### - Projects 🤟
 [Solidity Fund Me](https://github.com/MoeyJac/hardhat-fund-me-fcc)  
