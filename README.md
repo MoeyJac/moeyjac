@@ -1,5 +1,5 @@
 <!-- Credit https://github.com/wervlad/wervlad -->
-<h1 align="center">Hey there! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hey there! 👋></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -65,9 +65,6 @@ Coming soon...
   </a>
   <a href="https://github.com/MoeyJac">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoeyJac&theme=transparent" />
-  </a>
-  <a href="https://github.com/MoeyJac">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoeyJac&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
